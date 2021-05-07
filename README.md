@@ -10,5 +10,7 @@ Storage Space for JSON, HTML, PY files
 Download files from Github.
 ### Customization
 You can configure the forums in `config.json`.
+### Running
+Open `main.py`.
 ## Plugins
 Plugins are not quite ready yet.
